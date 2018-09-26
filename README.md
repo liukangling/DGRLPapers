@@ -15,9 +15,17 @@ DynGEM将动态图分成了K个graph snapshot, 第l+1层的参数由第l层的�
 
 3.Li J, Dani H, Hu X, et al. Attributed Network Embedding for Learning in a Dynamic Environment. 2017:387-396. [paper](http://cn.arxiv.org/abs/1706.01860)
 
-## dynamic work embedding
+## dynamic word embedding
 1.Bamler R, Mandt S. Dynamic Word Embeddings. 2017. ICML. [paper](http://cn.arxiv.org/abs/1702.08359)
+
+2.Rudolph M, Blei D. Dynamic Bernoulli Embeddings for Language Evolution. 2018. WWW. [paper](http://cn.arxiv.org/abs/1702.08359)
+
 
 ## other papers
 
 1.Li Y, Yu R, Shahabi C, et al. Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting. 2017. [paper](http://cn.arxiv.org/pdf/1707.01926) [code](https://github.com/liyaguang/DCRNN)
+
+2.Yang C, Liu M, Wang Z, et al. Graph Clustering with Dynamic Embedding. 2017. [paper](http://cn.arxiv.org/abs/1712.08249)
+
+### lable propagation
+1.Learning Graph Embeddings with Embedding Propagation. Alberto Garcia Duran, Mathias Niepert. NIPS 2017. 
