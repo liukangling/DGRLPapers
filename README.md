@@ -1,4 +1,5 @@
 
+
 # DGRLPapers
 Papers on Dynamic Graph Representation Learning.
 
@@ -27,6 +28,7 @@ DynGEM将动态图分成了K个graph snapshot, 第l+1层的参数由第l层的�
 1.Li Y, Yu R, Shahabi C, et al. Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting. 2017. [paper](http://cn.arxiv.org/pdf/1707.01926) [code](https://github.com/liyaguang/DCRNN)
 
 2.Yang C, Liu M, Wang Z, et al. Graph Clustering with Dynamic Embedding. 2017. [paper](http://cn.arxiv.org/abs/1712.08249)
+
 3.multivariate time series imputation with generative adversarial networks. NIPS 2018.[paper](https://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks.pdf)
 
 ### lable propagation
