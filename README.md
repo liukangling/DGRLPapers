@@ -1,5 +1,3 @@
-
-
 # DGRLPapers
 Papers on Dynamic Graph Representation Learning.
 
@@ -33,3 +31,6 @@ DynGEM将动态图分成了K个graph snapshot, 第l+1层的参数由第l层的�
 
 ### lable propagation
 1.Learning Graph Embeddings with Embedding Propagation. Alberto Garcia Duran, Mathias Niepert. NIPS 2017. 
+
+### spatio-temporal graph
+1. Structual RNN: Deep Learning on Spatio-Temporal Graphs CVPR 2016
